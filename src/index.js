@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client"
 import { RouterProvider, createBrowserRouter } from "react-router-dom"
 import Home from "./pages"
 import ModalsProvider from "./context/ModalsContext"
+import "bootstrap/dist/css/bootstrap.min.css"
 
 const router = createBrowserRouter([
     {
