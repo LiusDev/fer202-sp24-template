@@ -1,0 +1,148 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Integrated System"
+    },
+    {
+      "id": 2,
+      "name": "Software"
+    },
+    {
+      "id": 3,
+      "name": "Information Assurance"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tran Bao Han",
+      "dob": "1980-09-12",
+      "gender": "Female",
+      "position": "Developer",
+      "department": 1
+    },
+    {
+      "id": 2,
+      "name": "Quach Phu Thanh",
+      "dob": "1987-01-19",
+      "gender": "Male",
+      "position": "Developer",
+      "department": 1
+    },
+    {
+      "id": 3,
+      "name": "Chu Thanh Quang",
+      "dob": "1984-05-23",
+      "gender": "Male",
+      "position": "Leader",
+      "department": 1
+    },
+    {
+      "id": 4,
+      "name": "Trinh Tien Dung",
+      "dob": "1990-06-14",
+      "gender": "Male",
+      "position": "Developer",
+      "department": 2
+    },
+    {
+      "id": 5,
+      "name": "Phan Thu Thao",
+      "dob": "1990-03-12",
+      "gender": "Female",
+      "position": "Tester",
+      "department": 1
+    },
+    {
+      "id": 6,
+      "name": "Nguyen Xuan Quang",
+      "dob": "1987-01-19",
+      "gender": "Male",
+      "position": "Leader",
+      "department": 2
+    },
+    {
+      "id": 7,
+      "name": "Trinh Thu Hang",
+      "dob": "2000-05-12",
+      "gender": "Female",
+      "position": "Developer",
+      "department": 3
+    },
+    {
+      "id": 8,
+      "name": "Tran Hong Quan",
+      "dob": "1998-04-16",
+      "gender": "Male",
+      "position": "Leader",
+      "department": 3
+    },
+    {
+      "id": 9,
+      "name": "Pham The Tung",
+      "dob": "1984-09-12",
+      "gender": "Male",
+      "position": "Manager",
+      "department": 1
+    },
+    {
+      "id": 10,
+      "name": "Tran Manh Chien",
+      "dob": "1983-10-21",
+      "gender": "Male",
+      "position": "Manager",
+      "department": 2
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Contact Database for Estates Help Desk",
+      "description": "The Helpdesk team currently have a Microsoft Access database which has been organically developed from scratch, by a former employee.  The Key Contacts Database has grown to become a critical operational asset, which is now shared with our key front line service provider, Estates Security. The Microsoft Access database technology is not supported by ISG. This project is to develop and alternative in a supported technology which will provide increased service resilience.",
+      "startDate": "2020-10-10",
+      "type": "Software Product",
+      "department": 1
+    },
+    {
+      "id": 2,
+      "name": "Annual Maria DB Upgrade",
+      "description": "We require our MariaDB infrastructure to remain current and supportable, We will look to upgrade to latest stable and supported versions of Mariadb. Our last project to migrate to Mariadb added automation to the build and deployment of databases, we will build on the back of this to patch in an efficient automated manner.",
+      "startDate": "2019-12-12",
+      "type": "Consulting Project",
+      "department": 2
+    },
+    {
+      "id": 3,
+      "name": "Digital Strategy Implementation",
+      "description": "",
+      "startDate": "2020-09-03",
+      "type": "Consulting Project",
+      "department": 3
+    },
+    {
+      "name": "Test",
+      "description": "asd",
+      "startDate": "2024-03-17",
+      "type": "asdasd",
+      "department": 2,
+      "id": 4
+    },
+    {
+      "name": "atestas",
+      "description": "kdajslk;j",
+      "startDate": "2003-07-09",
+      "type": "kasjdklasjdksjd",
+      "department": 3,
+      "id": 5
+    },
+    {
+      "name": "asfasfasasd",
+      "description": "asfasgasf",
+      "startDate": "2024-04-17",
+      "type": "asdasd",
+      "department": 2,
+      "id": 6
+    }
+  ]
+}
